@@ -37,9 +37,13 @@ for YoloV3-face and Tiny-yolov3-face\
 download and extract from this [Drive](https://drive.google.com/file/d/1FJLvxmPLqoGZnOU4rKTPEPvaG7vk6-Ui/view?usp=sharing)
 
 
+![Alt text](demo/1.jpg)
+
 for YoloV3-face and Tiny-yolov3-face for OAK cameras\
 download and extract from this [Drive](https://drive.google.com/file/d/16h0JsEe73dMYU75xGZHwGTmt1t1n-bW0/view?usp=sharing)
 
+
+![Alt text](demo/2.jpeg)
 
 for YoloV3-face and Tiny-yolov3-facefor Intel neural Stick 2 \
 download and extract from this [Drive](https://drive.google.com/file/d/1v4a_oL6ncsBB5upnmyQ_MFSPzHdWriT8/view?usp=sharing)
