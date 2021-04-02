@@ -52,6 +52,10 @@ The OpenCV AI Kit-D (OAK-D) is a cheapest and highly powerful smart camera with 
 for YoloV3-face and Tiny-yolov3-face for OAK cameras\
 download and extract from this [Drive](https://drive.google.com/file/d/16h0JsEe73dMYU75xGZHwGTmt1t1n-bW0/view?usp=sharing)
 
+ python3 -m pip install -U pip
+ python3 -m pip install opencv-python
+ python3 -m pip install -U --force-reinstall depthai
+
 output
 
 
