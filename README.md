@@ -44,6 +44,9 @@ output
 
 
 
+### What is OpenCV AI kit?
+The OpenCV AI Kit-D (OAK-D) is a cheapest and highly powerful smart camera with neural inference and depth processing capability. ... built -n Intel Movidius X VPU// with powerful myraid x chip inside ,and capability of SpatialAI is to apply AI in this real world by not only identifying the object but also understanding where it is in 3D space — in real time 
+
 ![Alt text](demo/1.jpg)
 
 for YoloV3-face and Tiny-yolov3-face for OAK cameras\
@@ -54,6 +57,9 @@ output
 
 ![Alt text](demo/face-detection-results.jpg)
 
+
+### What is Intel neural compute stick?
+Product description. Intel Neural Compute Stick 2 is powered by the Intel Movidius X VPU to deliver industry leading performance, wattage, and power. The NEURAL COMPUTE supports OpenVINO, a toolkit that accelerates solution development and streamlines deployment.
 
 ![Alt text](demo/2.jpeg)
 
