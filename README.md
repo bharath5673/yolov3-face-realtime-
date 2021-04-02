@@ -1,4 +1,4 @@
-# yolov3-face-realtime
+# Darknets's yolov3-face-realtime
 
 ### YOLO face detection.
 
