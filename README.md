@@ -23,9 +23,9 @@
 
 ## training:
 
-dataset used :[FDDB](http://vis-www.cs.umass.edu/fddb/)
-classes : 1
-classes name : face
-training duration : for yolv3  15+ hr,,,,  for tiny-yolov3 8+ hr
+dataset used :[FDDB](http://vis-www.cs.umass.edu/fddb/) \
+classes : 1\
+classes name : face\
+training duration : for yolv3  15+ hr,,,,  for tiny-yolov3 8+ hr\
 gpu : goolge colab / tesla T4
 
