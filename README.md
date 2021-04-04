@@ -45,7 +45,7 @@ output
 
 
 ### What is OpenCV AI kit?
-The OpenCV AI Kit-D (OAK-D) is a cheapest and highly powerful smart camera with neural inference and depth processing capability. ... built -n Intel Movidius X VPU// with powerful myraid x chip inside ,and capability of SpatialAI is to apply AI in this real world by not only identifying the object but also understanding where it is in 3D space — in real time 
+The OpenCV AI Kit-D (OAK-D) is a low price and highly powerful smart camera with neural inference and depth processing capability. ... built -n Intel Movidius X VPU// with powerful myraid x chip inside ,and capability of SpatialAI is to apply AI in this real world by not only identifying the object but also understanding where it is in 3D space — in real time 
 
 ![Alt text](demo/1.jpg)
 
